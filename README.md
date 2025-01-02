@@ -6,20 +6,20 @@ This project explores and visualises 118 years of Australian Open tennis data (1
 - Processed and explored historical data on Australian Open matches for both men and women.
 - Analysed attributes like match year, player names, nationalities, seeds, scores, and match outcomes.
 - Focused on players with 5 or more wins to identify key patterns and trends.
-<br /><br />
+<br />
 ### 2. Calculations and Transformations:
 - Created Tableau calculations to determine:
   - Match win rates and percentages.
   - Set-by-set performance metrics.
 - Introduced transformations to visualise free-text scores as structured data for easier analysis.
-<br /><br />
+<br />
 ### 3. Visualisation Techniques:
 - Developed 10 Tableau sheets, showcasing diverse visualisation methods:
   - Treemap: Highlighted winning records by country and gender.
   - Parallel Coordinates: Compared players' win rates across matches and sets.
   - Geographic Map: Displayed performance patterns by nationality.
   - Scatter Chart: Illustrated player-specific win rates and match outcomes.
-<br /><br />
+<br />
 ### 4. Findings:
 - Observed dominance of certain countries like Australia and the USA in both wins and runner-up positions.
 - Identified trends in gender-based participation and performance over time.

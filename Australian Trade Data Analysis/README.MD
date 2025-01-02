@@ -18,7 +18,7 @@ This project examines over 3 decades of Australian trade data (1988–2022), foc
 - Trends:
   - Import of machinery dominated consistently over time.
   - Export of crude oil surged post-2010, with minerals leading total trade in later years.
--  Outliers:
+- Outliers:
   - Significant spikes in commodity imports in 1997, 2009, and 2017.
   - Manufactured goods had the lowest import levels in 2022.
 

@@ -3,14 +3,14 @@ This repository contains two comprehensive projects showcasing advanced data vis
 
 ### Projects Overview:
 1. Australian Open Tennis Data Analysis (1905–2023):
-- Explores 118 years of Australian Open data for men and women.
-- Visualisations focus on win/loss rates, player trends, and national performance patterns.
-- Features diverse Tableau visualisations, including treemaps, parallel coordinates, and scatter plots.
+  - Explores 118 years of Australian Open data for men and women.
+  - Visualisations focus on win/loss rates, player trends, and national performance patterns.
+  - Features diverse Tableau visualisations, including treemaps, parallel coordinates, and scatter plots.
 
 2. Australian Trade Data Analysis (1988–2022):
-- Analyses over 30 years of trade data across 10 categories and 67 sub-categories.
-- Highlights trends in imports and exports with category-specific insights.
-- Includes dashboards and storyboards for dynamic exploration and storytelling.
+  - Analyses over 30 years of trade data across 10 categories and 67 sub-categories.
+  - Highlights trends in imports and exports with category-specific insights.
+  - Includes dashboards and storyboards for dynamic exploration and storytelling.
 <br /><br />
 ### Tools Used:
 - Tableau: Leveraged for interactive and dynamic data visualisation, enabling insights through advanced charts, dashboards, and storyboards.

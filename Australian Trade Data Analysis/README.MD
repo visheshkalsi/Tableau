@@ -41,5 +41,5 @@ This project examines over 3 decades of Australian trade data (1988–2022), foc
 ### Tools Used:
 - Excel: For data preparation and statistical calculations.
 - Tableau: For advanced data visualization, dashboard creation, and storytelling.
-<br /><br />
+
 This project demonstrates a data-driven approach to analysing trade dynamics, offering actionable insights for decision-makers. Detailed dashboards, storyboards, and reports are available within the project folder.
